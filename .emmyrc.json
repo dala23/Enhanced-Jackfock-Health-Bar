@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/EmmyLuaLs/emmylua-analyzer-rust/0.24.0/crates/emmylua_code_analysis/resources/schema.json",
+  "runtime": {
+    "version": "Lua5.1"
+  },
+  "workspace": {
+    "workspaceRoots": ["./EnhancedJackfockHealthBar"],
+    "library": ["./editor"]
+  },
+  "completion": {
+    "autoRequire": false
+  }
+}

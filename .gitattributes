@@ -1,0 +1,10 @@
+* text=auto
+*.lua text eol=lf
+*.toc text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.png binary
+*.mp3 binary
+*.ogg binary
+*.zip binary

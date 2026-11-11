@@ -1,0 +1,18 @@
+# Local editor state
+.idea/
+*.iml
+out/
+.kotlin/
+.vscode/
+
+# Local development tools and Python caches
+.tools/
+__pycache__/
+*.py[cod]
+
+# Built release archives
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db

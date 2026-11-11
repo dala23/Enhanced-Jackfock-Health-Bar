@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Enhanced Jackfock Health Bar
+## Notes: Dr Enkel health watch and death reports for Forever.
+## Version: 0.5.0
+## SavedVariables: MyForeverAddonDB
+
+Namespace.lua
+Audio.lua
+Window.lua
+Tracker.lua
+Counters.lua
+Options.lua
+Core.lua
